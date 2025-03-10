@@ -8,7 +8,7 @@ Original file is located at
 
 # Solar Panel Detection
 
-This notebook demonstrates how to use the geoai package for solar panel detection using a pre-trained model.
+This notebook demonstrates how to use the geoai package for solar panel detection.
 
 [![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opengeos/geoai/blob/main/docs/examples/solar_panel_detection.ipynb)
 
